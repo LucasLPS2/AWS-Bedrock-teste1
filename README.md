@@ -1,0 +1,1 @@
+# AWS-Bedrock-teste1
